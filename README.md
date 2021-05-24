@@ -12,7 +12,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
-[2.2]: https://raw.githubusercontent.com/rjrahul24/rjrahul24/blob/main/Images/linkedin.svg
+[2.2]: https://github.com/rjrahul24/rjrahul24/blob/main/Images/linkedin.svg
 
 <!-- Links to your social media accounts -->
 
