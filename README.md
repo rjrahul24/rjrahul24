@@ -1,4 +1,9 @@
 <div align="center">
+  <a href="#"><img src="images/stephenajulu header 2.png" alt="Rahul's Header"></a>
+  <br> </br>
+</div>
+  
+<div align="center">
   
 <h4> Hello Everyone, I am Rahulraj! By profession a Software Engineer and presently studying Data Science at Columbia University in New York. I have worked in the Software Development and Data Engineering sectors for 3 years before returning back to academics. Apart from technology, I love writing. You can read my blogs on my Medium profile. I am also a Tennis player and an F1 fanatic. </h4>
 
