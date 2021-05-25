@@ -6,4 +6,4 @@
 <a href="https://www.linkedin.com/in/rjrahul24/"><img height="30" src="https://github.com/rjrahul24/rjrahul24/blob/main/Images/linkedin.svg?raw=true"></a>
 </p>
 
-![](https://img.shields.io/badge/<Tools>-<Power BI>-informational?style=flat&logo=<power-bi>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=power-bi&logoColor=white&color=2bbc8a)
