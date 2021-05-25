@@ -12,7 +12,7 @@
 
 <div align="center" title="Skills">
   <p>
-    Below mentioned are some of my Technical Skills.
+    <h3> Technical Skillset </h3>
     </p>
   
 ![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=power-bi&logoColor=white&color=2bbc8a)&nbsp;&nbsp;&nbsp;&nbsp;
