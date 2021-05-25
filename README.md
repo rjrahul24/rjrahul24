@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+  
+Hello Everyone! I am Rahulraj, by profession a Software Engineer and presently studying Data Science at Columbia University in New York.
+
+</div>
 
 <p align='center'>
 <a href="https://twitter.com/rjrahul24"><img height="30" src="https://github.com/rjrahul24/rjrahul24/blob/main/Images/twitter.svg?raw=true"></a>&nbsp;&nbsp;
@@ -6,7 +10,10 @@
 <a href="https://www.linkedin.com/in/rjrahul24/"><img height="30" src="https://github.com/rjrahul24/rjrahul24/blob/main/Images/linkedin.svg?raw=true"></a>
 </p>
 
-<div align="center">
+<div align="center" title="Skills">
+  <p>
+    Below mentioned are some of my Technical Skills.
+    </p>
   
 ![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=power-bi&logoColor=white&color=2bbc8a)&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Languages-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,7 +24,6 @@
 ![](https://img.shields.io/badge/Languages-SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Services-AzureDataExplorer-informational?style=flat&logo=azure-data-explorer&logoColor=white&color=2bbc8a)&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Frameworks-AzurePipelines-informational?style=flat&logo=azure-pipelines&logoColor=white&color=2bbc8a)
-
 
 ![](https://img.shields.io/badge/Tools-AzureMLStudio-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Languages-Scala-informational?style=flat&logo=scala&logoColor=white&color=2bbc8a)&nbsp;&nbsp;&nbsp;&nbsp;
